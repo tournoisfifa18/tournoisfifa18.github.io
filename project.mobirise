@@ -3273,6 +3273,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Charles - Tim",
+                "active": false
+              },
+              {
+                "tags": "Semaine 1",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-3-22-22-26-74646.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/embed/bw7VzXceHwQ",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Leo - Julien",
                 "active": true
               }
             ]
